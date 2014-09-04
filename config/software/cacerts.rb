@@ -16,7 +16,9 @@
 #
 
 name "cacerts"
-default_version "2014.08.20"  # date of the file is in a comment at the start, or in the changelog
+
+# Date of the file is in a comment at the start, or in the changelog
+default_version "2014.08.20"
 
 version "2014.08.20" do
   source :md5 => "c9f4f7f4d6a5ef6633e893577a09865e"
